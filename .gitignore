@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.idea
+utils/tryit.py
+*.session
+utils/secure.py
